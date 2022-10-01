@@ -1,5 +1,6 @@
 ### Hi there 👋
 This is the future codebase of something quite cool ⚡
+To stay connected, please visit: https://www.siteupnow.com/
 <!--
 **siteupnow/siteupnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
